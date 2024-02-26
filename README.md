@@ -4,8 +4,7 @@ My name is Demian, I'm a 26yo soon-to-be statistician. I live in Porto Alegre - 
 - Statistical methods, always looking into [improving my statistical inferences](https://lakens.github.io/statistical_inferences/)
 - ML for tabular data
 - Survey sampling
-- R tidyverse
-- Some Python coding and whatnot
+- Coding in R tidyverse, and whatnot
 - A/B testing (although I'm actually just now starting to learn about online experiments)
 
 
